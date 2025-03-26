@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "persian-datepicker": "^1.2.0",
+    "persian-date": "^1.1.0",
+    "jalali-moment": "^3.3.11"
+  }
+}

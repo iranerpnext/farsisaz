@@ -1,9 +1,9 @@
 [project]
 name = "farsisaz"
 authors = [
-    { name = "erpnext.ir", email = "info@erpnext.ir"}
+    { name = "sdfdsfdf", email = "a@a.com"}
 ]
-description = "Persian Tools For ERPNext"
+description = "fdsfdsfdsf"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

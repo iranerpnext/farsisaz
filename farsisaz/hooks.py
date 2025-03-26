@@ -1,36 +1,21 @@
 app_name = "farsisaz"
 app_title = "Farsisaz"
-app_publisher = "erpnext.ir"
-app_description = "Persian Tools For ERPNext"
-app_email = "info@erpnext.ir"
+app_publisher = "Brillintsoftgroup.com"
+app_description = "Persian Translation & Fonts"
+app_email = "info@brilliantsoftgroup.com"
 app_license = "mit"
-
-# Apps
-# ------------------
-
 # required_apps = []
-
-# Each item in the list will be shown as an app in the apps page
-# add_to_apps_screen = [
-# 	{
-# 		"name": "farsisaz",
-# 		"logo": "/assets/farsisaz/logo.png",
-# 		"title": "Farsisaz",
-# 		"route": "/farsisaz",
-# 		"has_permission": "farsisaz.api.permission.has_app_permission"
-# 	}
-# ]
 
 # Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/farsisaz/css/farsisaz.css"
-# app_include_js = "/assets/farsisaz/js/farsisaz.js"
+app_include_css = ["/assets/farsisaz/css/farsisaz.css","/assets/farsisaz/css/persian-datepicker.css"]
+app_include_js = ["/assets/farsisaz/js/farsisaz.js","/assets/farsisaz/js/persian-date.js","/assets/farsisaz/js/persian-datepicker.js","/assets/farsisaz/js/erpPersianDatePicker.js"]
 
 # include js, css files in header of web template
-# web_include_css = "/assets/farsisaz/css/farsisaz.css"
-# web_include_js = "/assets/farsisaz/js/farsisaz.js"
+web_include_css = "/assets/farsisaz/css/farsisaz.css"
+web_include_js = "/assets/farsisaz/js/farsisaz.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "farsisaz/public/scss/website"

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'IRANSansWeb';
+    src: url('/assets/farsisaz/fonts/Iransans.ttf') format('truetype');
+}
+body {
+	font-family: "IRANSansWeb","b titr",Roboto, Arial, Droid Sans, sans-serif;
+}
+.page-head {
+    font-family: "IRANSansWeb", "b titr", Roboto, Arial, Droid Sans, sans-serif;
+}
+.chart-container {
+    font-family: -apple-system,"IRANSansWeb","b titr", BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}

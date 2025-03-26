@@ -1,6 +1,6 @@
 ## Farsisaz
 
-Persian Tools For ERPNext
+Persian Translation & Configuration for erpnext
 
 #### License
 
