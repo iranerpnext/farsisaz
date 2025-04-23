@@ -11,11 +11,11 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 app_include_css = ["/assets/farsisaz/css/farsisaz.css","/assets/farsisaz/css/persian-datepicker.css"]
-app_include_js = ["/assets/farsisaz/js/farsisaz.js","/assets/farsisaz/js/persian-date.js","/assets/farsisaz/js/persian-datepicker.js","/assets/farsisaz/js/erpPersianDatePicker.js"]
+# app_include_js = "/assets/farsisaz/js/farsisaz.js"
 
 # include js, css files in header of web template
 web_include_css = "/assets/farsisaz/css/farsisaz.css"
-web_include_js = "/assets/farsisaz/js/farsisaz.js"
+# web_include_js = "/assets/farsisaz/js/farsisaz.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "farsisaz/public/scss/website"
